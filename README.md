@@ -12,7 +12,7 @@ NodeJs / Express / Prisma via PlanetScale /Vue/ Bootstrap
 * Création de role selon profil du compte (standard/admin)
 
 
-## étape de mise en route :
+## Etapes de mise en route :
 
 ### Initialisation du projet: :file_folder:
 - créer un dossier en local 
