@@ -36,7 +36,7 @@ NodeJs / Express / Prisma via PlanetScale /Vue/ Bootstrap
 Port = 3000;
 DATABASE_URL='mysql://rqzhdz8q07bd1bj8sktl:pscale_pw_712wwlxQdp52EmLpGlcwvGy9dLfeVZ4SX4JxvaW7U4l@aws-eu-west-2.connect.psdb.cloud/groupomania?sslaccept=strict'
 #### Frontend
-- créer le fichier .env.example du dossier \frontend
+- créer le fichier .env du dossier \frontend
 - le coller au même endroit puis renommer celui-ci par ".env"
 - Ouvrir ce fichier .env et remplacer les variables par  
 VITE_SERVER_ADDRESS=localhost
