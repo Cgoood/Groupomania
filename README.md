@@ -3,6 +3,11 @@
 
 NodeJs / Express / Prisma via PlanetScale /Vue/ Bootstrap
 
+### Dépendances backend installées:
+
+Bcrypt/dotenv/express/fs/jsonwebtoken/multer/nodemon
+
+
 ## Contenu du site
 -------
 
