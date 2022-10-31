@@ -22,12 +22,12 @@ Bcrypt/ Dotenv/ Express/ Fs/ Jsonwebtoken/ Multer/ Nodemon
 ### Initialisation du projet: :file_folder:
 - créer un dossier en local 
 
-- y cloner le repository à l'aide de votre CLI avec cette commande:  
+- y cloner le repository à l'aide avec cette commande:  
 `git clone https://github.com/Cgoood/Groupomania.git`
 
 ### Installation des packages : :package:
 
-- se positionner avec le CLI sur le dossier backend ET lancer la commande :  
+- se positionnersur le dossier backend ET lancer la commande :  
 `npm install`
 
 - se positionner sur le dossier frontend et lancer la commande :  
@@ -38,7 +38,7 @@ Bcrypt/ Dotenv/ Express/ Fs/ Jsonwebtoken/ Multer/ Nodemon
 - renommer le fichier .env_example en .env dans le dossier \backend
 - Ouvrir ce fichier .env et remplacer les variables par:  
 Port = 3000;
-DATABASE_URL='mysql://rqzhdz8q07bd1bj8sktl:pscale_pw_712wwlxQdp52EmLpGlcwvGy9dLfeVZ4SX4JxvaW7U4l@aws-eu-west-2.connect.psdb.cloud/groupomania?sslaccept=strict'
+
 #### Frontend
 - renommer le fichier .env_example en .env dans le dossier \frontend
 - Ouvrir ce fichier .env et remplacer les variables par  
@@ -54,3 +54,6 @@ VITE_SERVER_PORT=3000
   `npm run dev`
 
 - l'application sera lancée sur http://localhost:8080
+
+### Fichier base de données Prisma
+Renommer le fichier en schema.prisma
